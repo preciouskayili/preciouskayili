@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
-<!--
+
 **preciouskayili/preciouskayili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: preciouskayili@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I also love music, and play a couple of instruments. Won drum feast 2018
--->
+
 
 
 ---
