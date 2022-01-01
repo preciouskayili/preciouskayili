@@ -1,9 +1,9 @@
 ### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 
-**preciouskayili/preciouskayili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Precious Solomon Kayili** a ✨ Full Stack developer ✨ MERN, LAMP.
 
-Here are some ideas to get you started:
+Here are some things you should know about me:
 
 - 🔭 I’m currently working on amazing
 - 🌱 I’m currently learning laravel
