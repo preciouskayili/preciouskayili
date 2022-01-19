@@ -5,7 +5,7 @@ I'm **Precious Solomon Kayili** a ✨ Full Stack developer ✨ MERN, LAMP.
 
 Here are some things you should know about me:
 
-- 🔭 I’m currently working on amazing
+- 🔭 I’m currently working at bluealgorithm
 - 🌱 I’m currently learning laravel
 - 👯 I’m looking to collaborate on exciting projects
 - 🤔 I’m looking for help with project management
