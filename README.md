@@ -1,6 +1,9 @@
 # Hi there, I'm Precious Kayili! 👋
 I'm a Full stack developer with a passion for Software and design. I enjoy building Web applications and exploring new technologies and frameworks to improve my skills.
 
+## Tools I work with
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,nodejs,react,mongodb,express,vscode)](https://skillicons.dev)
+
 ## 🔭 What I'm working on
 I'm currently working on Social learning platform. I'm also learning Typescript and experimenting with AWS in my free time.
 
