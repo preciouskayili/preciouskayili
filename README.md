@@ -17,6 +17,7 @@ If you'd like to get in touch, you can find me on:
 [![My Socials](https://skillicons.dev/icons?i=twitter)](https://twitter.com/preshkayili)
 [![My Socials](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/13853007)
 [![My Socials](https://skillicons.dev/icons?i=instagram)](https://instagram.com/preciouskayili)
+[![My Socials](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/preciouskayili)
 
 ## ⚡ Fun fact
 When I'm not coding, you can find me making music.
