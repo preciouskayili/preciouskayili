@@ -1,5 +1,5 @@
 # Hi there, I'm Precious Kayili! 👋
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,nodejs,react,mongodb,express,vscode,mysql,tailwind,bootstrap)]
+![My Skills](https://skillicons.dev/icons?i=js,ts,php,nodejs,react,mongodb,express,vscode,mysql,tailwind,bootstrap)
 
 I'm a Full stack developer with a passion for Software and design. I enjoy building Web applications and exploring new technologies and frameworks to improve my skills.
 
@@ -9,7 +9,7 @@ I'm currently working on Social learning platform. I'm also learning Typescript 
 ## 🌱 What I'm learning
 I'm always learning and improving my skills! Some of the things I'm currently learning include:
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,aws)]
+![My Skills](https://skillicons.dev/icons?i=laravel,aws)
 
 ## 📫 How to reach me
 If you'd like to get in touch, you can find me on:
