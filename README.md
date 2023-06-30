@@ -4,7 +4,7 @@
 I'm a Full stack developer with a passion for Software and design. I enjoy building Web applications and exploring new technologies and frameworks to improve my skills.
 
 ## 🔭 What I'm working on
-I'm currently working on Social learning platform. I'm also learning Typescript and experimenting with AWS in my free time.
+I'm currently working on Social learning platform.
 
 ## 🌱 What I'm learning
 I'm always learning and improving my skills! Some of the things I'm currently learning include:
