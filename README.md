@@ -1,5 +1,5 @@
 # Hi there, I'm Precious Kayili! 👋
-![My Skills](https://skillicons.dev/icons?i=js,ts,php,nodejs,react,mongodb,express,vscode,mysql,tailwind,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=js,ts,php,nodejs,react,nextjs,prisma,supabase,postgres,mongodb,express,vscode,mysql,tailwind,bootstrap)
 
 I'm a Full stack developer with a passion for Software and design. I enjoy building Web applications and exploring new technologies and frameworks to improve my skills.
 
